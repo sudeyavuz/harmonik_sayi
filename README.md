@@ -1,0 +1,1 @@
+# harmonik sayı hesaplayan program
